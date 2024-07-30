@@ -1,4 +1,4 @@
-#Qr Code Generator 
+## Qr Code Generator 
 
 This project is a QR Code Generator that allows users to input product details (ID and Price) and generate a QR code.
 The project consists of a backend server built with Node.js and Express, and a frontend interface created using HTML, CSS, and JavaScript.
